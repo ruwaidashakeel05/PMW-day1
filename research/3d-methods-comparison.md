@@ -41,3 +41,9 @@
 For PreserveMy.World, the most practical starting point is **Monocular Depth Estimation**
 because it works with a single image and runs without a GPU. As the project scales,
 COLMAP and NeRF become better options for high-quality 3D preservation of heritage sites.
+
+## Reproduced Repo
+- **Forked:** [Depth-Anything by LiheYoung](https://github.com/ruwaidashakeel05/Depth-Anything)
+- **What I ran:** Monocular depth estimation using Depth-Anything-V2-Small model
+- **Output:** See depth_output.png in this folder
+- **Result:** The model correctly identified depth layers in a mountain landscape photo
